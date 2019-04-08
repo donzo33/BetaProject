@@ -1,0 +1,6 @@
+/* Donzo : Override the Navbar effect */
+.navbar,
+.navbar-default {
+    background-image: grey !important; /* override background image gradient w/ flat color */
+}
+
